@@ -76,17 +76,6 @@ SMART_CAR_SYSTEM은 차량의 AI 기반 자동 및 수동 와이퍼 제어 및 �
 000(워터펌프 분사)
 
 
-## 📝 네트워크 아키텍처
-아직 없음
-
-## 🏗️ Diagram & Flow Chart
-
-<details>
-  <summary>아직 없음</summary>
-  
-
-</details>
-
 
 ## 📌 프로젝트 구조
 <img width="2043" height="1204" alt="image" src="https://github.com/user-attachments/assets/ee23ff77-221a-4077-88b9-e15305626ee4" />
